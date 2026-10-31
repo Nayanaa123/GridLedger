@@ -330,9 +330,8 @@ The tariff is stored in the database and edited from the Billing page, so rates 
 
 ## Author
 
-**<Your Name>** – <Register Number>
-<Department>, <Institution>
-GitHub: [@<your-username>](https://github.com/<your-username>)
+**<Nayana>** 
+
 
 Built as a Full Stack Development laboratory project using React.js, Node.js, Express.js and MongoDB.
 =======
