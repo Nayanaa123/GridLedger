@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚡ GridLedger – Electricity Consumption & Billing Management System
 
 A full-stack **MERN** web application (MongoDB, Express.js, React, Node.js) that helps an electricity service provider manage consumers, meters, monthly meter readings, tariff-based billing, payment tracking and customer complaints in one platform.
@@ -334,3 +335,6 @@ The tariff is stored in the database and edited from the Billing page, so rates 
 GitHub: [@<your-username>](https://github.com/<your-username>)
 
 Built as a Full Stack Development laboratory project using React.js, Node.js, Express.js and MongoDB.
+=======
+# GridLedger
+>>>>>>> 819135fcda0c94b37e6d549b4f6485bff9260849
